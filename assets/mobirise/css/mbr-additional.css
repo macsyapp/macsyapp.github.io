@@ -1213,7 +1213,7 @@ a {
   animation: zoom-2 3.1s infinite;
 }
 .cid-tvojsIeTnw {
-  padding-top: 1rem;
+  padding-top: 3rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
@@ -1777,7 +1777,7 @@ a {
 }
 .cid-tvoi45vQoQ #image4 {
   top: 300px;
-  background-image: url("../../../assets/images/sqr4.jpg");
+  background-image: url("../../../assets/images/sqr7.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -1823,35 +1823,71 @@ a {
     top: 250px;
   }
 }
-.cid-tvojrkzzfc {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-twqp6aiGYI {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
-.cid-tvojrkzzfc .content {
-  padding: 1rem;
+.cid-twqp6aiGYI .content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-.cid-tvojrkzzfc h2,
-.cid-tvojrkzzfc h4,
-.cid-tvojrkzzfc p {
-  margin: 0;
-}
-.cid-tvojrkzzfc .mbr-section-title {
+.cid-twqp6aiGYI .mbr-section-title {
   color: #000000;
+  margin-bottom: 20.4px;
 }
-.cid-tvojrkzzfc .mbr-section-subtitle {
-  color: #6b6b6b;
+.cid-twqp6aiGYI .animation-box {
+  position: relative;
+  width: 78px;
+  height: 86px;
 }
-.cid-tvojrkzzfc .mbr-text {
-  color: #6b6b6b;
-  margin-top: 14px;
+@keyframes zoom-1 {
+  0%,
+  10% {
+    transform: scale(0) rotate(0);
+  }
+  30%,
+  32% {
+    transform: scale(0.6) rotate(10deg);
+  }
+  100%,
+  85% {
+    transform: scale(0) rotate(60deg);
+  }
 }
-.cid-tvojrkzzfc .mbr-section-btn {
-  margin-top: 30.4px;
+@keyframes zoom-2 {
+  0%,
+  15% {
+    transform: scale(0) rotate(0);
+  }
+  50%,
+  54% {
+    transform: scale(0.4) rotate(0);
+  }
+  100%,
+  82% {
+    transform: scale(0) rotate(80deg);
+  }
 }
-.cid-tvojrkzzfc .btn {
-  padding: 0.7rem 1rem;
-  width: 200px;
+.cid-twqp6aiGYI .star {
+  color: #ee3102;
+  fill: currentColor;
+  overflow: hidden;
+}
+.cid-twqp6aiGYI .star:nth-of-type(2) {
+  position: absolute;
+  top: -35px;
+  left: 50px;
+  transform: scale(0);
+  animation: zoom-1 3.1s infinite;
+}
+.cid-twqp6aiGYI .star:nth-of-type(3) {
+  position: absolute;
+  top: -45px;
+  left: -50px;
+  animation: zoom-2 3.1s infinite;
 }
 .cid-sN85J5Nnxy {
   padding-top: 0rem;
