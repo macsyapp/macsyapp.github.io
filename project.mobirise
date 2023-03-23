@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "impressm5",
       "title": "ImpressM5",
@@ -3164,7 +3164,7 @@
               "color": "#6b6b6b"
             },
             ".mbr-text": {
-              "color": "#6b6b6b",
+              "color": "#232323",
               "margin-top": "14px"
             },
             ".mbr-section-btn": {
