@@ -3164,7 +3164,7 @@
               "color": "#6b6b6b"
             },
             ".mbr-text": {
-              "color": "#232323",
+              "color": "#040404",
               "margin-top": "14px"
             },
             ".mbr-section-btn": {
