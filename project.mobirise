@@ -66,14 +66,14 @@
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#fafafa",
-      "colorBg": "#000000",
+      "colorBg": "#3a3e44",
       "colorButton": "#db4f12",
       "rejectColor": "#ffffff",
       "colorLink": "#fafafa",
       "underlineLink": true,
       "opacityOverlay": "0",
       "bgOpacity": "100",
-      "text": "We use cookies to enhance your experience while using our website. These cookies help us analyze website traffic, personalize content, and provide a better browsing experience. By clicking \"Accept All,\" you consent to the use of all cookies.",
+      "text": "We use cookies to enhance your experience while using our website. These cookies help us analyze website traffic, personalize content, and provide a better browsing experience.",
       "textButton": "ACCEPT ALL",
       "rejectText": "REJECT"
     },
